@@ -91,7 +91,7 @@ body::before {
 .location {
     border: solid green;
     display: flex;
-    algin-items: center;
+    align-items: center;
     gap: 6px;
 }
 /* END SECTION: WEATHER INFO */
