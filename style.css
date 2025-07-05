@@ -87,5 +87,12 @@ body::before {
     justify-content: space-between;
     align-items: center;
 }
+
+.location {
+    border: solid green;
+    display: flex;
+    algin-items: center;
+    gap: 6px;
+}
 /* END SECTION: WEATHER INFO */
 
